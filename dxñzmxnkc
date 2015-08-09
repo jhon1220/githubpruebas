@@ -1,0 +1,20 @@
+[33mcommit 0115f3b82315b8f244e82ec1831d7df013e7ce70[m
+Author: jhon torres <jhonma1103@hotmail.com>
+Date:   Sun Aug 9 17:09:01 2015 -0500
+
+    arreglando bug
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex c6b2b33..b7c0b8b 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -5,6 +5,7 @@[m
+ 	</title>[m
+ </head>[m
+ <body>[m
+[31m-[m
+[32m+[m	[32m<p> este es un texto que se genera desde la cuenta jhon1220</p>[m
+[32m+[m	[32m<p>mientas la cuenta manu8083 modifica el front yo arreglo los bug del programa</p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
